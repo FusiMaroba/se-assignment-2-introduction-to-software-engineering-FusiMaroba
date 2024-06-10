@@ -7,7 +7,7 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-- Softeare Engineering is the process of designing, developing, testing and maintaining software systems and applications to solve real-world problems. This aimed at implementing engineering priciples to software development to help in building high-quality, reliable, and maintainable software systems that meet user requirements and industry standard.
+- Software Engineering is the process of designing, developing, testing and maintaining software systems and applications to solve real-world problems. This aimed at implementing engineering priciples to software development to help in building high-quality, reliable, and maintainable software systems that meet user requirements and industry standard.
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
